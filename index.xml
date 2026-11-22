@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deividas blog</title>
+    <link>https://daviddluci.github.io/</link>
+    <description>Recent content on Deividas blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2026 16:30:00 +0200</lastBuildDate>
+    <atom:link href="https://daviddluci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://daviddluci.github.io/posts/first-post/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
+      <guid>https://daviddluci.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;Hello! This is my first post with my dog!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Dog picture&#34; loading=&#34;lazy&#34; src=&#34;https://daviddluci.github.io/images/pic.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Here is some code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push -f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

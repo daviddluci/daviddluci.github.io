@@ -6,8 +6,15 @@
     <description>Recent content on Deividas blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:49:32 +0200</lastBuildDate>
     <atom:link href="https://daviddluci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://daviddluci.github.io/about/</link>
+      <pubDate>Sun, 22 Nov 2026 16:49:32 +0200</pubDate>
+      <guid>https://daviddluci.github.io/about/</guid>
+      <description>&lt;p&gt;Hi, my dogs name is Toris.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My first post</title>
       <link>https://daviddluci.github.io/posts/first-post/</link>
